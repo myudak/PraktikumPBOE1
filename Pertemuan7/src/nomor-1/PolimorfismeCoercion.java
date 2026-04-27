@@ -3,10 +3,7 @@
    Tanggal  : 27 April 2026
 */
 
-/* NIM  : 24060124110142
-   Nama : Muchammad Yuda Tri Ananda
-   Tanggal  : 27 April 2026
-*/
+
 
 public class PolimorfismeCoercion {
     public static void main(String[] args) {
