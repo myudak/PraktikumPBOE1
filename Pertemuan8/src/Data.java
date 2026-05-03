@@ -1,3 +1,8 @@
+// Nama File    : Data.java
+// NIM          : 24060124110142
+// Nama         : Muchammad Yuda Tri Ananda
+// Tanggal      : 2 Mei 2026
+
 public class Data<T> {
     private T[] ruang;
 

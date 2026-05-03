@@ -1,4 +1,9 @@
 
+// Nama File    : OperatorGenerik.java
+// NIM          : 24060124110142
+// Nama         : Muchammad Yuda Tri Ananda
+// Tanggal      : 2 Mei 2026
+
 public class OperatorGenerik {
     public static <T> void Tukar(Datum<T> a, Datum<T> b) {
         T temp = a.getIsi();
