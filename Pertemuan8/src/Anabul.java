@@ -1,9 +1,8 @@
-/* NIM  : 24060124110142
-Nama : Muchammad Yuda Tri Ananda
-Tanggal  : 27 April 2026
-*/
+// Nama File    : Anabul.java
+// NIM          : 24060124110142
+// Nama         : Muchammad Yuda Tri Ananda
+// Tanggal      : 2 Mei 2026
 
-// 3. Realisasi kelas induk
 public abstract class Anabul {
     private String nama;
 
