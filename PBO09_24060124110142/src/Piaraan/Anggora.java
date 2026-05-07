@@ -1,0 +1,17 @@
+// Nama File    : Anggora.java
+// NIM          : 24060124110142
+// Nama         : Muchammad Yuda Tri Ananda
+// Tanggal      : 7 Mei 2026
+
+package Piaraan;
+
+public class Anggora extends Kucing {
+    public Anggora(String nama, double bobot) {
+        super(nama, bobot);
+    }
+
+    @Override
+    public String toString() {
+        return "Anggora: " + this.getNama() + " (" + this.getBobot() + " kg)";
+    }
+}
